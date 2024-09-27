@@ -5,7 +5,7 @@ This project integrates two key tools: Python for data cleaning, normalization, 
 
 ## 2. Data visualization
 
-<a href="https://public.tableau.com/views/Revenuereport_17273939714540/Revenuereport?:language=es-ES&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link"><img src='./images/Revenue report.png'></a>
+<a href="https://public.tableau.com/views/Revenuereport_17273939714540/Revenuereport?:language=es-ES&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target='_blank'><img src='./images/Revenue report.png'></a>
 **Note:** Markdown doesn't support Tableau frame, so you can click the image
 
 ## 3. Code fragments
